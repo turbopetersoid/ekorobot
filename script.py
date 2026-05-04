@@ -59,7 +59,7 @@ def get_new_articles(feeds, seen_urls):
 
 def analyze_with_gemini(articles):
     """Pošle články do Gemini k analýze a shrnutí."""
-    api_key = "nope"
+    api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         print("Chyba: GEMINI_API_KEY není nastaven v prostředí.")
         return None
@@ -119,8 +119,8 @@ def analyze_with_gemini(articles):
 
 def send_telegram_message(text):
     """Odešle zprávu na Telegram (pokud jsou nastaveny klíče)."""
-    bot_token = "nope"
-    chat_id = "nope"
+    bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
+    chat_id = os.getenv("TELEGRAM_CHAT_ID")
     
     if not bot_token or not chat_id:
         print("Telegram klíče nejsou nastaveny, přeskakuji odesílání.")

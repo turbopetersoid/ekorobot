@@ -36,9 +36,27 @@ def load_seen_urls():
         return set(line.strip() for line in f if line.strip())
 
 def save_seen_urls(urls):
-    """Uloží nové URL do souboru."""
-    with open(SEEN_URLS_FILE, "a", encoding="utf-8") as f:
-        for url in urls:
+    """Uloží nové URL a udrží soubor v rozumné velikosti (max 500 záznamů)."""
+    # 1. Načteme vše, co už v souboru je
+    existing_urls = []
+    if os.path.exists(SEEN_URLS_FILE):
+        with open(SEEN_URLS_FILE, "r", encoding="utf-8") as f:
+            existing_urls = [line.strip() for line in f if line.strip()]
+
+    # 2. Přidáme nové URL (pokud tam už nejsou)
+    for url in urls:
+        if url not in existing_urls:
+            existing_urls.append(url)
+
+    # 3. Ořízneme seznam na posledních 500 záznamů (nejstarší nahoře zmizí)
+    MAX_HISTORY = 500
+    if len(existing_urls) > MAX_HISTORY:
+        print(f"Čistím historii: odmazávám {len(existing_urls) - MAX_HISTORY} nejstarších záznamů.")
+        existing_urls = existing_urls[-MAX_HISTORY:]
+
+    # 4. Zapíšeme celý očištěný seznam zpět
+    with open(SEEN_URLS_FILE, "w", encoding="utf-8") as f:
+        for url in existing_urls:
             f.write(f"{url}\n")
 
 def get_new_articles(feeds, seen_urls):

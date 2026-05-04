@@ -2,22 +2,20 @@ name: EkoBot Daily Run
 
 on:
   schedule:
-    # Čas je v UTC (05:00 UTC = 07:00 našeho času)
     - cron: '0 6,14,19 * * *'
-  workflow_dispatch: # Tohle ti umožní to spustit ručně tlačítkem
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository content
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
@@ -26,7 +24,6 @@ jobs:
 
       - name: Run EkoBot
         env:
-          # Tady GitHub propojí tvoje Secrets s Pythonem
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

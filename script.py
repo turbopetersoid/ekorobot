@@ -19,7 +19,7 @@ RSS_FEEDS = [
 
 SEEN_URLS_FILE = "seen_urls.txt"
 # Model gemini-2.0-flash je doporučená volba pro rychlost a kvalitu
-MODEL_NAME = "gemini-2.5-flash" 
+MODEL_NAME = "gemini-3.1-flash-lite" 
 
 def clean_html(text):
     """Odstraní HTML tagy z popisu článku."""

@@ -104,9 +104,10 @@ def analyze_with_gemini(articles):
     - Cokoliv, co je unikátní, inovativní nebo se vymyká běžným zprávám.
 
     INSTRUKCE:
-    - Vyber přesně 6 zpráv (pokud jich je v seznamu dostatek).
+    - Vyber přesně 6 pro mě nejzajímavějších zpráv (pokud jich je v seznamu dostatek).
     - Vyhni se bulvárním článkům.
     - Pokud je zdroj v angličtině, shrnutí napiš česky.
+    - Snaž se balancovat české a anglické zdroje.
     - Piš věcně, ale zajímavě, žádný suchý korporátní styl.
 
     FORMÁT PRO KAŽDOU ZPRÁVU:

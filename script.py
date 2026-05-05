@@ -12,7 +12,7 @@ RSS_FEEDS = [
     "https://cc.cz/feed/",
     "https://servis.idnes.cz/rss.aspx?c=ekonomikah",
     "https://techcrunch.com/feed/",
-    "https://www.theverge.com/rss/index.xml"
+    "https://www.theverge.com/rss/index.xml",
     "https://www.wired.com/feed/category/business/latest/rss"
 
 ]
@@ -49,7 +49,7 @@ def save_seen_urls(urls):
             existing_urls.append(url)
 
     # 3. Ořízneme seznam na posledních 500 záznamů (nejstarší nahoře zmizí)
-    MAX_HISTORY = 500
+    MAX_HISTORY = 650
     if len(existing_urls) > MAX_HISTORY:
         print(f"Čistím historii: odmazávám {len(existing_urls) - MAX_HISTORY} nejstarších záznamů.")
         existing_urls = existing_urls[-MAX_HISTORY:]

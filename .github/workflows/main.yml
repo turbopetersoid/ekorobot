@@ -3,8 +3,7 @@ name: EkoBot Daily Run
 on:
   schedule:
     # Změněno z 0 na 12 a 24 minutu, aby se workflow vyhnulo špičce
-    - cron: '12 6,14 * * *'
-    - cron: '24 19 * * *'
+    - cron: '15 6,13,18 * * *'
   workflow_dispatch:
 
 # Přidáno oprávnění k zápisu do repozitáře (nutné pro git push)

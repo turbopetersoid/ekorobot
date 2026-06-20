@@ -1,10 +1,3 @@
-https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/
-https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/
-https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/
-https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion
-https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear
-https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review
-https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement
 https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range
 https://www.wired.com/story/uk-social-media-under-16-ban/
 https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/
@@ -648,3 +641,10 @@ https://www.idnes.cz/ekonomika/zahranicni/zmrzlina-ceny-usa.A260616_132053_eko-z
 https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/
 https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir
 https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer
+https://cc.cz/zadny-chatbot-ani-obecna-ai-ale-dokonaly-inzenyr-jeff-bezos-odhalil-plany-ve-svete-umele-inteligence/
+https://www.idnes.cz/ekonomika/domaci/statistiky-plateb-kartou.A260616_094043_ekonomika_ven#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
+https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/
+https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/
+https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
+https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
+https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview

@@ -1,13 +1,3 @@
-https://www.idnes.cz/ekonomika/zahranicni/ancovicky-sardele-cena.A260702_103247_eko-zahranicni_ven#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
-https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
-https://www.e15.cz/byznys/obchod-a-sluzby/uber-eats-odklada-navrat-do-ceska-evropskou-expanzi-brzdi-souboj-o-delivery-hero-1434092
-https://www.e15.cz/domaci/politika/babis-a-pavel-miri-na-summit-nato-zvlast-spor-o-ceskou-delegaci-pokracuje-i-pred-odletem-1434091
-https://byznys.hn.cz/c1-67900940-vlastni-expanze-uberu-do-ceska-se-nekona-firma-podle-ft-nevzdava-prevzeti-velkeho-konkurenta
-https://cc.cz/jeho-jmeno-mozna-neznate-ale-zmenil-svet-otec-internetu-ted-odchazi-do-duchodu-a-varuje-pred-chybami-ai/
-https://cc.cz/klaster-v-centru-brna-ozije-nabidne-ubytovani-obchody-i-kavarnu-zpristupni-se-take-zahrady/
-https://www.idnes.cz/ekonomika/zahranicni/obleceni-deti-chemie-cina-shein-latky-limity-evropska-unie.A260702_161056_eko-zahranicni_jla#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
-https://www.idnes.cz/ekonomika/zahranicni/thajsko-turisticky-ruch.A260701_094851_eko-zahranicni_rie#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
-https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/
 https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/
 https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence
 https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter
@@ -648,3 +638,13 @@ https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables
 https://www.theverge.com/games/964262/blue-prince-family-bonding
 https://www.theverge.com/column/963346/ai-data-centers-fight
 https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/
+https://www.e15.cz/domaci/spor-pokracuje-babis-odmitl-pravidelne-schuzky-s-pavlem-nechci-byt-soucasti-jeho-kampane-tvrdi-premier-1434263
+https://www.e15.cz/byznys/potraviny/vejce-novym-symbolem-drahoty-slevy-lovi-desitky-tisic-cechu-mesicne-maslo-naopak-z-zebricku-mizi-1434233
+https://www.e15.cz/videoporady/co-vam-ne-uteklo/miliardar-rozdava-penize-automobilky-ztraceji-lidi-a-praha-prestava-byt-vyhrou-pro-singles-1434261
+https://cc.cz/nova-laborator-mety-zpackala-predstaveni-sve-ocekavane-ai-vase-fotky-z-instagramu-si-mohl-pujcit-kazdy/
+https://www.idnes.cz/ekonomika/zahranicni/vysoke-teploty-francie-odstavene-reaktory.A260712_184537_zahranicni_lupr#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
+https://www.idnes.cz/ekonomika/zahranicni/indie-ridici-podil-bioslozky-benzin-pohonne-hmoty-ropa.A260709_154124_eko-zahranicni_jla#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
+https://www.idnes.cz/ekonomika/zahranicni/aukcni-sin-sotheby-s-prodej-kostra-tyrannosaurus-rex.A260712_162541_zahranicni_lupr#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
+https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/
+https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
+https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale

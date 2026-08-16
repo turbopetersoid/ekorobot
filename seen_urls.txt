@@ -1,13 +1,3 @@
-https://www.idnes.cz/ekonomika/zahranicni/vesmir-odpad-satelity-druzice-nasledky-odskodneni-trosky.A260731_162555_eko-zahranicni_jla#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
-https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/
-https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/
-https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast
-https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/
-https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/
-https://www.e15.cz/byznys/e15-a-byznys/zero-carbon-miri-na-koleje-biomasa-ma-nahradit-tisice-kamionu-1434853
-https://www.e15.cz/zahranicni/cinsky-utok-na-ceske-turisty-hainan-ma-pritahnout-evropu-po-vzoru-dotovanych-elektromobilu-1434859
-https://www.e15.cz/byznys/technologie-a-media/meta-vyrazi-proti-drahe-ai-novy-model-pobezi-primo-na-zarizeni-uzivatele-1434877
-https://www.e15.cz/byznys/finance-a-bankovnictvi/skupina-drfg-zvysila-zisk-temer-o-polovinu-a-pokracuje-v-expanzi-po-evrope-1434875
 https://www.e15.cz/byznys/reality-a-stavebnictvi/oprava-kasaren-karlin-ma-stat-temer-dve-miliardy-praha-zatim-nevi-co-v-nich-bude-1434873
 https://www.e15.cz/byznys/reality-a-stavebnictvi/daramis-zahajil-nejdrazsi-rezidencni-projekt-v-praze-investuje-az-ctyri-miliardy-1434872
 https://www.e15.cz/byznys/technologie-a-media/zuckerbergova-lod-za-6-miliard-nepomohla-plavidlu-v-nouzi-podivejte-se-na-deset-megajachet-bohacu-1422508
@@ -648,3 +638,13 @@ https://www.idnes.cz/ekonomika/domaci/zbynek-stanjura-ivan-pilny-cez-zestatneni-
 https://www.idnes.cz/ekonomika/zahranicni/jar-migranti-protesty-pracovni-sila-nezamestnanost-prumysl.A260807_155246_eko-zahranicni_jla#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
 https://www.idnes.cz/ekonomika/zahranicni/cina-evropa-elektromobily-prodej-export-nakup-svet-poptavka.A260811_120426_eko-zahranicni_jla#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
 https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai
+https://www.e15.cz/videoporady/co-vam-ne-uteklo/babisova-vila-na-prodej-petrof-v-potizich-valka-penny-s-coca-colou-a-miliardy-investoru-v-ohrozeni-1434975
+https://www.e15.cz/byznys/prumysl-a-energetika/zestatneni-cez-nedava-smysl-shodli-se-byvali-ministri-financi-stanjura-a-pilny-1434973
+https://archiv.hn.cz/c1-67916810-anatomie-prusvihu-zdenka-radila-byvaly-sef-pivovaru-lobkowicz-je-zpet-a-poprve-mluvi-o-svem-padu-na-dno
+https://cc.cz/miliardovy-byznys-s-rele-luxusni-byty-u-vltavy-a-neutajitelne-ai-texty-tohle-jsou-top-clanky-tydne/
+https://www.idnes.cz/ekonomika/zahranicni/reuters-mzdy-sef-index-s-p-500-rekord-akciovy-trh-burza.A260814_194058_eko-zahranicni_sahu#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
+https://www.idnes.cz/ekonomika/zahranicni/vitejte-v-muzeu-nesmyslu-lublan-turistum-predstavila-expozici-balkanskeho-humoru.A260812_142427_eko-zahranicni_jadv#utm_source=rss&utm_medium=feed&utm_campaign=ekonomikah&utm_content=main
+https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/
+https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/
+https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions
+https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
